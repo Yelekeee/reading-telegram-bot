@@ -94,7 +94,7 @@ async def on_private_start(message: Message) -> None:
         "I'm designed for groups. Add me to your reading group and an admin "
         "can run /challenge_start to kick things off.\n\n"
         "<b>How it works:</b>\n"
-        "• Every day at 20:00 (Asia/Almaty) I post a poll: "Did you read 30 min?"\n"
+        "• Every day at 20:00 (Asia/Almaty) I post a poll: \u201cDid you read 30 min?\u201d\n"
         "• I track each participant's ✅/❌ votes.\n"
         "• Every Monday I post a weekly leaderboard.\n\n"
         "<b>⚠️ Important:</b> Make sure my privacy mode is <b>disabled</b> in "
